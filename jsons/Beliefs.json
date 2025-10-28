@@ -68,7 +68,7 @@
     "uniques": ["[+100]% growth [in all cities] <every [20] turns>"]
   },
   {
-    "name": "Absolute Hatred":
+    "name": "Absolute Hatred",
     "type": "Follower",
     "uniques": [
       "[-10000 Faith] [in all cities]",
