@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Mercury",
+    "type": "Pantheon",
+    "uniques": [
+      "[+2 Gold, +3 Production] from each Trade Route",
+      "[+10]% [Gold]",
+      "[-5]% [Food]"
+    ]
+  },
+  {
+    "name": "God of Gluttony",
+    "type": "Pantheon",
+    "uniques": [
+      "[+65]% [Food]",
+      "[-30]% [Gold]",
+      "[-1 Food] per [1] populaton [in all cities]"
+    ]
+  },
+  {
+    "name": "God of Farming",
+    "type": "Pantheon",
+    "uniques": [
+      "[+25]% Yield from every [Farm]",
+      "[+25]% Yield from every [Granary]",
+      "[+25]% Yield from every [Plantation]",
+      "[+25]% Yield from every [Water Mill]",
+      "[+25]% [Food]",
+      "[-5]% [Production]"
+    ]
+  },
+  {
+    "name": "Sacred Writings",
+    "type": "Founder",
+    "uniques": [
+      "[+3%] [Faith] from every follower, up to [+100]%"
+    ]
+  },
+  {
+    "name": "Ritual Sacrifices",
+    "type": "Founder"
+    "uniques": [
+      "[-20]% [Food]",
+      "[+30]% [Gold]",
+      "[+25]% [Production]",
+      "[+5] [Happiness]"
+    ]
+  },
+  {
+    "name": "Happily Ever After",
+    "type": "Founder",
+    "uniques": [
+      "[+125]% [Happiness]",
+      "[-5 Gold, -5 Production, -5 Food] from every [2] global followers [in all cities]"
+    ]
+  },
+  {
+    "name": "Food Prayers",
+    "type": "Follower",
+    "uniques": [
+      "[+5]% [Food]",
+      "[+5]% [Faith]"
+    ]
+  },
+  {
+    "name": "City Overgrowth",
+    "type": "Follower",
+    "uniques": ["[+100]% growth [in all cities] <every [20] turns>"]
+  },
+  {
+    "name": "Absolute Hatred":
+    "type": "Follower",
+    "uniques": [
+      "[-10000 Faith] [in all cities]",
+      "[-10000 Faith] per [1] population [in all cities]"
+    ]
+  },
+  {
+    "name": "Religious Gossip",
+    "type": "Follower",
+    "uniques": ["[+50]% Natural religion spread [in all cities]"]
+  },
+  {
+    "name": "Agility during Prosperity",
+    "type": "Enhancer",
+    "uniques": [
+      "[+3] Movement <for [All] units> <during a golden age>",
+      "[+3] Movement <for [All] units> <during We Love The King Day>"
+    ]
+  },
+  {
+    "name": "Joyful and Strong",
+    "type": "Enhancer",
+    "uniques": ["[+30]% Strength <for [All] units> <while the empire is happy>"]
+  }
+]
